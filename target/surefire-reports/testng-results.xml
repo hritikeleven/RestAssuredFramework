@@ -1,0 +1,1377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="60" passed="60" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-17T19:11:34 IST" name="PetAPISuite" finished-at="2023-10-17T19:13:01 IST" duration-ms="87667">
+    <groups>
+    </groups>
+    <test started-at="2023-10-17T19:11:34 IST" name="PetAPI" finished-at="2023-10-17T19:13:01 IST" duration-ms="87667">
+      <class name="api.test.DDTTestCase">
+        <test-method is-config="true" signature="EnableLogger()[pri:0, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:34 IST" name="EnableLogger" finished-at="2023-10-17T19:11:34 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnableLogger -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:37 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:40 IST" duration-ms="2643" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harry@kane]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Harry]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kane]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Harrykane@spurs.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[H@K098]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8273657721]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:40 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:41 IST" duration-ms="1251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289002]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MarcusKing]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Marcus]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Rashford]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[MarcusK@Munited.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[M@K9123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7986210917]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:41 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:42 IST" duration-ms="1340" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289003]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CR7Portugal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Cristiano]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Ronaldo]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[RonaldoCR7@CR7.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[CR@7goat]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9876453291]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:42 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:44 IST" duration-ms="1402" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289004]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KobeyBryan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kobey]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Bryan]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[RipKobey@Bryan.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[KobeyKing]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8725671291]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:44 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:45 IST" duration-ms="1308" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289005]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MikeBoxer]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mike]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tyson]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[TysonMike@box.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[BoxMikeTy]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7665909012]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:45 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:46 IST" duration-ms="1338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289006]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KingKohli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Virat]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kohli]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ViratKolhi@711.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[ViratKolhi]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8273619918]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:46 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:48 IST" duration-ms="1244" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289007]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TheHitman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rohit]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[RohitSharma@MI.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vadapaw]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9897860021]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:48 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:49 IST" duration-ms="1286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289008]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[MrIPL]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Suresh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Raina]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Raina@CSK.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[YellowLove]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9126678901]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:49 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:50 IST" duration-ms="1461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuplaShot]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Surya]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Kumar Yadav]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SKY@MI.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SuplaSurya]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8789002090]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:50 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:52 IST" duration-ms="1415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289010]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TheGoatWK]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mahendra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Dhoni]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mahi@CSK.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Farmingislove]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9890765521]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:52 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:53 IST" duration-ms="1362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289011]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[JimmyJammy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jimmy]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Anderson]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[JimmyJ@ECB.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Playtilllife]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6571209817]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:53 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:55 IST" duration-ms="1374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289012]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[PrinceGJ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Subhman]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Gill]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Shubh@GL.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Saramylife]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[7621239012]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:55 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:56 IST" duration-ms="1275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289013]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SoftCushion]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Neymar]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jr]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[NeymarJr@Alhilal.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Rainbowking]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8276543300]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:56 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:57 IST" duration-ms="1454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289014]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ackerman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sasha]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Alexander]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[S1mple@Navi.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sasha01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8090651101]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:57 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:11:59 IST" duration-ms="1379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289015]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TheHM]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Amit]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Shah]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[HM@goi.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Ilovemyindia]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8982567700]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:11:59 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:12:00 IST" duration-ms="1390" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289016]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DragonRider]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Daneryns]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Targaren]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Theunburnt@GOT.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Johnsnowiscute]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6712320115]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:00 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:12:01 IST" duration-ms="1339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289017]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[idontCheat]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Steven]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[SteveSm@ACB.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[SrryMB]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8980030021]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:01 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:12:03 IST" duration-ms="1442" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289018]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Rock]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dwayne]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Jhonson]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Rock@WWE.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[rockBottom]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[6214321241]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:03 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:12:04 IST" duration-ms="1252" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289019]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Namo]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Narendra]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Modi]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Namo@BJP.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Namo4Ind]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9021127616]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="CreateUserTC(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:04 IST" name="CreateUserTC" data-provider="Data" finished-at="2023-10-17T19:12:05 IST" duration-ms="1277" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[11289020]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Batman]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Bruce]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Wayne]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Bruceisrich@Gotham.com]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[BruceWay01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9899999102]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:06 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:07 IST" duration-ms="1338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harry@kane]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:07 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:08 IST" duration-ms="1477" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MarcusKing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:08 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:10 IST" duration-ms="1339" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CR7Portugal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:10 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:11 IST" duration-ms="1321" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KobeyBryan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:11 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:12 IST" duration-ms="1345" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MikeBoxer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:12 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:14 IST" duration-ms="1376" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KingKohli]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:14 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:15 IST" duration-ms="1234" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheHitman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:15 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:16 IST" duration-ms="1194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MrIPL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:16 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:17 IST" duration-ms="1267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SuplaShot]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:17 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:19 IST" duration-ms="1306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheGoatWK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:19 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:20 IST" duration-ms="1336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JimmyJammy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:20 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:22 IST" duration-ms="1453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PrinceGJ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:22 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:23 IST" duration-ms="1240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SoftCushion]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:23 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:24 IST" duration-ms="1241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ackerman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:24 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:25 IST" duration-ms="1251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheHM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:25 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:28 IST" duration-ms="2557" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DragonRider]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:28 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:29 IST" duration-ms="1332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[idontCheat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:29 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:31 IST" duration-ms="1396" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rock]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:31 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:32 IST" duration-ms="1343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Namo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="GetUserTC(java.lang.String)[pri:2, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:32 IST" name="GetUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:34 IST" duration-ms="1814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Batman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:34 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:35 IST" duration-ms="1221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[harry@kane]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:35 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:36 IST" duration-ms="1242" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MarcusKing]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:36 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:38 IST" duration-ms="1433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[CR7Portugal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:38 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:39 IST" duration-ms="1301" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KobeyBryan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:39 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:41 IST" duration-ms="1563" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MikeBoxer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:41 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:42 IST" duration-ms="1415" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KingKohli]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:42 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:43 IST" duration-ms="1291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheHitman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:43 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:45 IST" duration-ms="1357" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MrIPL]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:45 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:46 IST" duration-ms="1348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SuplaShot]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:46 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:47 IST" duration-ms="1246" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheGoatWK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:47 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:49 IST" duration-ms="1338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[JimmyJammy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:49 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:50 IST" duration-ms="1361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PrinceGJ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:50 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:51 IST" duration-ms="1352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SoftCushion]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:51 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:53 IST" duration-ms="1472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ackerman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:53 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:54 IST" duration-ms="1399" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TheHM]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:54 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:56 IST" duration-ms="1288" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DragonRider]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:56 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:57 IST" duration-ms="1243" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[idontCheat]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:57 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:12:58 IST" duration-ms="1449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rock]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:12:58 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:13:00 IST" duration-ms="1735" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Namo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+        <test-method signature="DeleteUserTC(java.lang.String)[pri:3, instance:api.test.DDTTestCase@55b7a4e0]" started-at="2023-10-17T19:13:00 IST" name="DeleteUserTC" data-provider="UserNames" finished-at="2023-10-17T19:13:01 IST" duration-ms="1354" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Batman]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteUserTC -->
+      </class> <!-- api.test.DDTTestCase -->
+    </test> <!-- PetAPI -->
+  </suite> <!-- PetAPISuite -->
+</testng-results>

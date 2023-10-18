@@ -1,0 +1,380 @@
+<html>
+<head>
+<title>TestNG:  PetAPI</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>PetAPI</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>60/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Oct 17 14:00:59 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>80 seconds (80860 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheHM</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheGoatWK</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: KingKohli</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Ackerman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: PrinceGJ</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MrIPL</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheHM</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MikeBoxer</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289007, TheHitman, Rohit, Sharma, RohitSharma@MI.com, Vadapaw, 9897860021, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: CR7Portugal</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289019, Namo, Narendra, Modi, Namo@BJP.com, Namo4Ind, 9021127616, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289014, Ackerman, Sasha, Alexander, S1mple@Navi.com, Sasha01, 8090651101, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Batman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Ackerman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MarcusKing</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: JimmyJammy</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: CR7Portugal</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289020, Batman, Bruce, Wayne, Bruceisrich@Gotham.com, BruceWay01, 9899999102, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheHitman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Rock</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289005, MikeBoxer, Mike, Tyson, TysonMike@box.com, BoxMikeTy, 7665909012, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Namo</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: idontCheat</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: KobeyBryan</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289010, TheGoatWK, Mahendra, Dhoni, Mahi@CSK.com, Farmingislove, 9890765521, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MarcusKing</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: SoftCushion</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Namo</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289001, harry@kane, Harry, Kane, Harrykane@spurs.com, H@K098, 8273657721, 1</td>
+<td></td>
+<td>2</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: SoftCushion</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: PrinceGJ</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: SuplaShot</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: DragonRider</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289004, KobeyBryan, Kobey, Bryan, RipKobey@Bryan.com, KobeyKing, 8725671291, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheHitman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: JimmyJammy</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289012, PrinceGJ, Subhman, Gill, Shubh@GL.com, Saramylife, 7621239012, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289002, MarcusKing, Marcus, Rashford, MarcusK@Munited.com, M@K9123, 7986210917, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289006, KingKohli, Virat, Kohli, ViratKolhi@711.com, ViratKolhi, 8273619918, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: TheGoatWK</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289009, SuplaShot, Surya, Kumar Yadav, SKY@MI.com, SuplaSurya, 8789002090, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289015, TheHM, Amit, Shah, HM@goi.com, Ilovemyindia, 8982567700, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MrIPL</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: MikeBoxer</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Batman</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: harry@kane</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: KingKohli</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: Rock</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289011, JimmyJammy, Jimmy, Anderson, JimmyJ@ECB.com, Playtilllife, 6571209817, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: KobeyBryan</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289003, CR7Portugal, Cristiano, Ronaldo, RonaldoCR7@CR7.com, CR@7goat, 9876453291, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289008, MrIPL, Suresh, Raina, Raina@CSK.com, YellowLove, 9126678901, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289017, idontCheat, Steven, Smith, SteveSm@ACB.com, SrryMB, 8980030021, 1</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: DragonRider</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: SuplaShot</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.GetUserTC()'><b>GetUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: idontCheat</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289013, SoftCushion, Neymar, Jr, NeymarJr@Alhilal.com, Rainbowking, 8276543300, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.DeleteUserTC()'><b>DeleteUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: harry@kane</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289016, DragonRider, Daneryns, Targaren, Theunburnt@GOT.com, Johnsnowiscute, 6712320115, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+<tr>
+<td title='api.test.DDTTestCase.CreateUserTC()'><b>CreateUserTC</b><br>Test class: api.test.DDTTestCase<br>Parameters: 11289018, Rock, Dwayne, Jhonson, Rock@WWE.com, rockBottom, 6214321241, 0</td>
+<td></td>
+<td>1</td>
+<td>api.test.DDTTestCase@6340e5f0</td></tr>
+</table><p>
+</body>
+</html>
