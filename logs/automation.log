@@ -1,484 +1,214 @@
-14:01:00.672 [main] INFO  api.test.DDTTestCase - ---------------Running DDT Test Case-----------------
-14:01:03.651 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:03.652 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:06.317 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:06.325 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:06.325 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:07.727 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:07.730 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:07.731 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:08.927 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:08.932 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:08.932 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:10.151 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:10.155 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:10.156 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:11.355 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:11.359 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:11.359 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:12.618 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:12.622 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:12.623 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:13.826 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:13.830 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:13.830 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:15.202 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:15.205 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:15.205 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:16.383 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:16.385 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:16.386 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:17.657 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:17.659 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:17.660 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:18.919 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:18.923 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:18.923 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:20.256 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:20.260 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:20.260 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:21.559 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:21.564 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:21.564 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:22.783 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:22.786 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:22.787 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:24.064 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:24.068 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:24.068 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:25.337 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:25.340 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:25.341 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:26.589 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:26.592 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:26.592 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:27.768 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:27.772 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:27.772 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:29.084 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:29.088 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-14:01:29.088 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-14:01:30.372 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-14:01:30.618 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:31.940 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:33.234 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:34.532 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:35.828 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:37.219 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:38.476 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:39.726 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:40.987 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:42.169 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:43.394 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:44.632 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:45.863 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:47.069 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:48.291 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:49.585 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:50.772 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:52.003 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:53.282 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:54.568 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-14:01:56.027 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:01:57.318 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:01:57.321 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:01:58.538 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:01:58.541 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:01:59.786 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:01:59.790 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:00.990 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:00.994 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:02.242 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:02.245 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:03.428 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:03.431 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:04.689 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:04.692 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:05.937 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:05.940 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:07.284 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:07.286 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:08.465 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:08.468 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:09.711 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:09.715 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:10.906 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:10.909 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:12.098 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:12.101 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:13.387 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:13.390 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:14.695 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:14.698 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:15.950 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:15.951 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:17.231 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:17.233 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:18.413 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:18.414 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:19.600 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-14:02:19.603 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-14:02:20.838 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:05:11.114 [main] INFO  api.test.DDTTestCase - ---------------Running DDT Test Case-----------------
-16:05:13.721 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:13.721 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:16.359 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:16.367 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:16.368 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:17.588 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:17.590 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:17.591 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:18.837 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:18.839 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:18.840 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:20.027 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:20.029 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:20.030 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:21.227 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:21.228 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:21.228 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:22.416 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:22.418 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:22.419 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:23.658 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:23.660 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:23.661 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:24.971 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:24.973 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:24.973 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:26.245 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:26.246 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:26.248 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:27.614 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:27.615 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:27.615 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:28.893 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:28.895 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:28.895 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:30.166 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:30.168 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:30.169 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:31.560 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:31.561 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:31.561 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:32.902 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:32.904 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:32.905 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:34.119 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:34.120 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:34.121 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:35.356 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:35.358 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:35.359 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:36.553 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:36.554 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:36.554 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:37.784 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:37.786 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:37.787 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:38.997 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:38.999 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-16:05:38.999 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-16:05:40.238 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-16:05:40.450 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:41.681 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:43.024 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:44.267 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:45.473 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:46.722 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:47.971 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:49.190 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:50.396 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:51.677 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:52.858 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:54.088 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:55.343 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:56.619 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:57.841 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:05:59.111 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:06:00.327 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:06:01.574 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:06:02.809 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:06:04.045 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-16:06:05.397 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:06.628 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:06.629 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:07.867 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:07.868 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:09.145 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:09.146 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:10.349 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:10.350 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:11.547 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:11.549 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:12.761 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:12.762 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:13.960 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:13.961 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:15.253 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:15.254 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:16.527 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:16.529 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:17.857 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:17.859 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:19.064 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:19.065 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:20.285 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:20.286 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:21.561 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:21.561 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:22.799 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:22.799 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:24.007 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:24.008 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:25.221 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:25.222 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:26.438 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:26.439 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:27.650 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:27.652 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:28.869 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-16:06:28.871 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-16:06:30.073 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:08:54.247 [main] INFO  api.test.DDTTestCase - ---------------Running DDT Test Case-----------------
-19:08:57.368 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:08:57.368 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:00.524 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:00.534 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:00.534 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:01.804 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:01.806 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:01.806 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:04.237 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:04.239 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:04.239 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:05.693 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:05.695 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:05.695 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:07.059 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:07.061 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:07.061 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:08.489 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:08.491 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:08.492 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:09.771 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:09.772 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:09.772 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:11.873 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:11.875 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:11.875 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:13.314 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:13.317 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:13.317 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:15.127 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:15.129 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:15.130 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:16.459 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:16.462 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:16.462 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:17.829 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:17.830 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:17.830 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:19.064 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:19.065 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:19.065 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:20.387 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:20.389 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:20.389 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:21.717 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:21.719 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:21.719 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:24.520 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:24.522 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:24.522 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:25.753 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:25.755 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:25.755 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:26.988 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:26.989 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:26.990 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:28.387 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:28.388 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:09:28.388 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:09:29.766 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:09:29.971 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:31.404 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:32.658 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:34.011 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:35.328 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:36.623 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:38.023 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:39.282 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:40.711 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:42.009 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:43.254 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:44.649 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:46.083 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:47.362 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:48.611 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:49.855 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:51.078 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:52.372 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:53.807 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:55.196 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:09:56.622 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:09:57.969 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:09:57.971 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:09:59.293 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:09:59.295 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:00.655 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:00.657 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:02.025 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:02.026 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:03.299 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:03.301 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:04.736 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:04.738 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:06.126 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:06.128 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:07.351 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:07.353 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:08.628 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:08.630 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:10.130 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:10.131 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:11.799 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:11.801 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:13.147 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:13.149 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:14.443 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:14.444 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:15.689 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:15.691 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:17.063 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:17.063 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:18.495 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:18.497 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:19.871 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:19.873 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:22.273 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:22.275 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:23.516 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:10:23.518 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:10:24.958 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:11:34.737 [main] INFO  api.test.DDTTestCase - ---------------Running DDT Test Case-----------------
-19:11:37.591 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:37.591 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:40.229 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:40.236 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:40.236 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:41.487 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:41.489 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:41.489 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:42.828 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:42.831 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:42.831 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:44.232 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:44.234 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:44.234 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:45.540 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:45.543 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:45.543 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:46.881 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:46.883 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:46.884 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:48.127 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:48.129 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:48.129 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:49.415 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:49.417 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:49.417 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:50.876 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:50.877 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:50.878 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:52.292 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:52.293 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:52.293 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:53.655 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:53.657 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:53.657 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:55.031 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:55.033 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:55.033 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:56.307 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:56.308 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:56.308 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:57.762 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:57.763 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:57.764 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:11:59.142 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:11:59.143 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:11:59.143 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:12:00.532 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:12:00.534 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:12:00.534 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:12:01.873 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:12:01.874 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:12:01.875 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:12:03.316 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:12:03.318 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:12:03.318 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:12:04.569 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:12:04.570 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
-19:12:04.570 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
-19:12:05.847 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
-19:12:06.064 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:07.403 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:08.881 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:10.221 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:11.542 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:12.887 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:14.264 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:15.499 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:16.694 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:17.962 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:19.268 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:20.605 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:22.059 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:23.300 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:24.543 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:25.794 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:28.351 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:29.682 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:31.079 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:32.423 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
-19:12:34.417 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:35.636 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:35.638 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:36.880 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:36.881 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:38.314 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:38.315 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:39.615 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:39.618 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:41.179 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:41.181 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:42.595 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:42.597 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:43.887 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:43.888 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:45.244 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:45.246 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:46.594 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:46.594 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:47.840 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:47.841 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:49.178 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:49.180 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:50.539 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:50.541 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:51.893 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:51.894 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:53.365 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:53.366 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:54.765 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:54.766 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:56.053 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:56.055 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:57.296 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:57.297 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:12:58.746 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:12:58.747 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:13:00.480 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
-19:13:00.483 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
-19:13:01.837 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:06:41.327 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:41.335 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:42.585 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:42.587 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:42.588 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:43.775 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:43.777 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:43.777 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:44.965 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:44.967 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:44.968 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:46.156 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:46.158 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:46.159 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:47.360 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:47.362 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:47.363 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:48.549 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:48.551 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:48.551 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:49.762 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:49.764 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:49.764 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:50.973 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:50.974 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:50.974 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:52.188 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:52.191 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:52.191 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:53.393 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:53.395 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:06:53.395 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:06:54.590 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:06:54.804 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:06:56.017 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:06:57.231 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:06:58.401 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:06:59.641 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:00.830 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:02.071 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:03.289 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:04.556 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:05.765 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:07.006 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:08.227 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:09.417 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:10.628 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:11.836 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:13.035 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:14.295 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:15.509 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:16.709 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:17.954 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:07:19.356 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:20.546 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:20.547 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:21.716 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:21.717 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:22.907 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:22.908 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:24.152 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:24.154 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:25.344 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:25.346 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:26.597 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:26.598 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:27.828 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:27.829 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:29.082 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:29.084 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:30.277 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:30.279 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:31.509 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:31.511 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:32.747 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:32.749 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:33.950 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:33.951 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:35.150 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:35.151 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:36.354 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:36.355 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:37.553 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:37.554 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:38.732 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:38.734 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:39.927 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:39.928 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:41.170 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:41.170 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:42.331 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:07:42.332 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:07:43.549 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:10:15.449 [main] INFO  api.test.DDTTestCase - ---------------Running DDT Test Case-----------------
+00:10:17.975 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:17.975 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:20.411 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:20.419 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:20.419 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:21.589 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:21.591 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:21.591 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:22.808 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:22.809 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:22.809 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:24.126 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:24.128 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:24.129 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:25.313 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:25.315 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:25.315 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:26.509 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:26.512 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:26.512 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:27.731 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:27.733 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:27.733 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:28.951 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:28.954 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:28.954 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:30.177 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:30.180 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:30.180 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:31.379 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:31.381 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:31.381 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:32.576 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:32.577 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:32.578 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:33.806 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:33.808 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:33.808 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:35.001 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:35.003 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:35.003 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:36.186 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:36.189 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:36.189 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:37.414 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:37.416 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:37.417 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:38.593 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:38.595 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:38.595 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:39.821 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:39.822 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:39.823 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:41.057 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:41.058 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:41.059 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:42.320 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:42.322 [main] INFO  api.test.DDTTestCase - ---------------Fetching data from Excel-----------------
+00:10:42.322 [main] INFO  api.test.DDTTestCase - ---------------Creating a new user-----------------
+00:10:43.562 [main] INFO  api.test.DDTTestCase - ---------------New User Created-----------------
+00:10:43.838 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:45.050 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:46.286 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:47.452 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:48.691 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:49.968 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:51.158 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:52.344 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:53.559 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:54.801 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:55.973 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:57.173 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:58.495 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:10:59.718 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:00.915 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:02.127 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:03.345 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:04.591 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:05.799 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:07.019 [main] INFO  api.test.DDTTestCase - ---------------Reading a new user-----------------
+00:11:08.411 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:09.600 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:09.602 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:10.876 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:10.877 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:12.103 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:12.104 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:13.324 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:13.326 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:14.543 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:14.545 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:15.733 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:15.734 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:16.928 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:16.929 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:18.153 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:18.155 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:19.364 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:19.365 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:20.550 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:20.552 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:21.793 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:21.794 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:22.994 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:22.996 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:24.209 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:24.210 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:25.445 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:25.447 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:26.654 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:26.656 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:27.889 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:27.890 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:29.131 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:29.132 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:30.316 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:30.317 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:31.552 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
+00:11:31.552 [main] INFO  api.test.DDTTestCase - ---------------Deleting a user-----------------
+00:11:32.764 [main] INFO  api.test.DDTTestCase - ---------------User Deleted -----------------
